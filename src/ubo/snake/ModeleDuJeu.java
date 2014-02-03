@@ -7,11 +7,11 @@ import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 
 public class ModeleDuJeu {
-
+//debut
 	private Serpent serpent;
 	private boolean laPartieEstPerdue;
 	private Grenouille grenouille;
-	
+	//debut
 	public ModeleDuJeu() {
         this.serpent = new Serpent();
         this.laPartieEstPerdue = false;
